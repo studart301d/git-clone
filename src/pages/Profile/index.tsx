@@ -55,7 +55,7 @@ const Profile: React.FC = () => {
                                 <RepoCard 
                                     key={n}
                                     username={'studart301d'}
-                                    reponame={'youtube-content'}
+                                    reponame={'git-clone'}
                                     descripton={'Contains all of my YouTube lessons code'}
                                     language={n % 2 === 0 ? 'JavaScript' : 'TypeScript'}
                                     starts={8}
