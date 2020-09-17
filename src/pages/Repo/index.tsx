@@ -17,8 +17,8 @@ const Repo: React.FC = () => {
         <Container>
             <Breadcrumb>
                 <RepoIcon />
-                <Link className={'username'} to={'/studart301d0'} >
-                    studart301d0
+                <Link className={'username'} to={'/studart301d'} >
+                    studart301d
                 </Link>
                 <span>/</span>
                 <Link className={'reponame'} to={'/studart/git-clone'} >
